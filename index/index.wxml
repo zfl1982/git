@@ -1,0 +1,29 @@
+<view class="cu-list grid col-5">
+  <view class='cu-item'>
+    <image src='https://lg-2w3pxoq2-1257930616.cos.ap-shanghai.myqcloud.com/del.png'></image>
+    <text>sss</text>
+  </view>
+    <view class='cu-item'>
+    <image src='https://lg-2w3pxoq2-1257930616.cos.ap-shanghai.myqcloud.com/del.png'></image>
+    <text>sss</text>
+  </view>
+
+    <view class='cu-item'>
+    <image src='https://lg-2w3pxoq2-1257930616.cos.ap-shanghai.myqcloud.com/del.png'></image>
+    <text>sss</text>
+ 
+  </view>
+
+    <view class='cu-item'>
+    <image src='https://lg-2w3pxoq2-1257930616.cos.ap-shanghai.myqcloud.com/del.png'></image>
+    <text>sss</text>
+ 
+  </view>
+    <view class='cu-item'>
+    <image src='https://lg-2w3pxoq2-1257930616.cos.ap-shanghai.myqcloud.com/del.png'></image>
+    <text>sss</text>
+ 
+  </view>
+
+
+</view>
